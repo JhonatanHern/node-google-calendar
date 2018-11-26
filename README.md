@@ -1,11 +1,11 @@
-#googlec-node
+# googlec-node
 Node.js simple API for google calendar
 
-###Note:
+### Note:
 
 Make sure you have the latest node.js & npm versions in your computer. Older versions can crash the installation or the program itself.
 
-###Installation:
+### Installation:
 
 - clone or download this repo
 - go to the repo's folder
@@ -16,7 +16,7 @@ Make sure you have the latest node.js & npm versions in your computer. Older ver
 npm install
 ```
 
-###Usage:
+### Usage:
 
 - write:
 
