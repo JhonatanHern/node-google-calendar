@@ -1,4 +1,4 @@
-# googlec-node
+# node-google-calendar
 Node.js simple API for google calendar
 
 ### Note:
